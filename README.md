@@ -1,3 +1,3 @@
-# Computational-Astrophysics
+# Computational Astrophysics
 
 In this re
