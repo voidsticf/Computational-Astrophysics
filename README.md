@@ -9,8 +9,9 @@ The methods that are related to the files are:
 * $\textbf{Multigrid method}$
   * V-cycle
   * W-cycle
+  * Application to a simple self-gravity physics problem.
 * $\textbf{Fluid Mechanics}$
-  * Riemann Solvers (HLL)
+  * Riemann Solvers (HLL and LLF)
   
   
 
