@@ -4,8 +4,12 @@ This repository contains the assignments' code that were completed as a part of 
 
 The methods that are related to the files are:
 
-* \textbf{Advection}
+* $\textbf{Advection}$
   * Derivation
+* $\textbf{Multigrid}$
+  * V-cycle
+  * W-cycle
+  
   
 
 
