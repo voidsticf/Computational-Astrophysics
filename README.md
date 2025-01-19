@@ -6,10 +6,10 @@ The methods that are related to the files are:
 
 * $\textbf{Advection}$
   * Derivation
-* $\textbf{Multigrid_method}$
+* $\textbf{Multigrid\_method}$
   * V-cycle
   * W-cycle
-* $\textbf{Fluid_Mechanics}$
+* $\textbf{Fluid\_Mechanics}$
   * Riemann Solvers (HLL)
   
   
