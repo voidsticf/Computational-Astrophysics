@@ -4,7 +4,8 @@ This repository contains the assignments' code that were completed as a part of 
 
 The methods that are related to the files are:
 
-* Advection file
+* \textbf{Advection}
   * Derivation
+  
 
 
