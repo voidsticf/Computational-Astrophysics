@@ -10,12 +10,25 @@ The concepts that are related to the files are:
   * The simple advection problem
   * Courant-Friedrich-Leqy condition
   * Upwind  method
-* $\textbf{Multigrid method}$
-  * V-cycle
-  * W-cycle
-  * Application to a simple self-gravity physics problem.
+* $\textbf{Chemistry}$
+  * Microphysics and particularly non-equilibrium chemistry.
 * $\textbf{Fluid Mechanics}$
   * Riemann Solvers (HLL and LLF)
+  * Simple application of the riemann solvers to the astrophysical problem of blast waves.
+* $\textbf{MHD (MagnetoHydroDynamics) }$
+  * A physical application for Riemann solvers from the aspect of magnetohydrodynamics.
+* $\textbf{Multigrid method}$
+  *  A description of the multigrid method is presented and particularly two different strategies V-cycle and W-cycle in the perspective of self-gravity collapse problem
+ * $\textbf{Particles}$
+  * Different particle systems
+  * Point particles and few-body systems
+  * Time integration methods and symplectic integrators
+ * $\textbf{Radiation}$
+  * Main focus on the radiation problem
+
+
+  
+
   
   
 
